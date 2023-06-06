@@ -1,0 +1,63 @@
+[INFO ] 2022-09-19 18:52:18.237 [main] Practice - Execution started
+[INFO ] 2022-09-19 18:52:18.245 [main] Practice - Instantiation of the CommonUtilities
+[INFO ] 2022-09-19 18:52:18.246 [main] Practice - Loading properties file
+[INFO ] 2022-09-19 18:52:18.246 [main] Practice - Checking the Driver is null or not
+[INFO ] 2022-09-19 18:52:18.247 [main] Practice - Driver is Null. Instantiating it!
+[INFO ] 2022-09-19 18:52:18.247 [main] Practice - Launchingchrome
+[INFO ] 2022-09-19 19:22:45.213 [main] Practice - Execution started
+[INFO ] 2022-09-19 19:22:45.219 [main] Practice - Instantiation of the CommonUtilities
+[INFO ] 2022-09-19 19:22:45.219 [main] Practice - Loading properties file
+[INFO ] 2022-09-19 19:22:45.220 [main] Practice - Checking the Driver is null or not
+[INFO ] 2022-09-19 19:22:45.221 [main] Practice - Driver is Null. Instantiating it!
+[INFO ] 2022-09-19 19:22:46.391 [main] Practice - Launchingchrome
+[INFO ] 2022-09-19 19:30:45.369 [main] Practice - Execution started
+[INFO ] 2022-09-19 19:30:45.378 [main] Practice - Instantiation of the CommonUtilities
+[INFO ] 2022-09-19 19:30:45.379 [main] Practice - Loading properties file
+[INFO ] 2022-09-19 19:30:45.380 [main] Practice - Checking the Driver is null or not
+[INFO ] 2022-09-19 19:30:45.381 [main] Practice - Driver is Null. Instantiating it!
+[INFO ] 2022-09-19 19:30:46.533 [main] Practice - Launchingchrome
+[INFO ] 2022-09-19 21:02:55.210 [main] Practice - Execution started
+[INFO ] 2022-09-19 21:02:55.265 [main] Practice - Instantiation of the CommonUtilities
+[INFO ] 2022-09-19 21:02:55.266 [main] Practice - Loading properties file
+[INFO ] 2022-09-19 21:02:55.266 [main] Practice - Checking the Driver is null or not
+[INFO ] 2022-09-19 21:02:55.267 [main] Practice - Driver is Null. Instantiating it!
+[INFO ] 2022-09-19 21:02:56.338 [main] Practice - Launchingchrome
+[INFO ] 2022-09-20 09:16:00.670 [main] Practice - Execution started
+[INFO ] 2022-09-20 09:16:00.715 [main] Practice - Instantiation of the CommonUtilities
+[INFO ] 2022-09-20 09:16:00.715 [main] Practice - Loading properties file
+[INFO ] 2022-09-20 09:16:00.715 [main] Practice - Checking the Driver is null or not
+[INFO ] 2022-09-20 09:16:00.715 [main] Practice - Driver is Null. Instantiating it!
+[INFO ] 2022-09-20 09:16:01.639 [main] Practice - Launchingchrome
+[INFO ] 2022-09-20 09:57:38.638 [main] Practice - Execution started
+[INFO ] 2022-09-20 09:57:38.643 [main] Practice - Instantiation of the CommonUtilities
+[INFO ] 2022-09-20 09:57:38.647 [main] Practice - Loading properties file
+[INFO ] 2022-09-20 09:57:38.648 [main] Practice - Checking the Driver is null or not
+[INFO ] 2022-09-20 09:57:38.648 [main] Practice - Driver is Null. Instantiating it!
+[INFO ] 2022-09-20 09:57:39.268 [main] Practice - Launchingchrome
+[INFO ] 2022-09-20 10:01:59.589 [main] Practice - Execution started
+[INFO ] 2022-09-20 10:01:59.637 [main] Practice - Instantiation of the CommonUtilities
+[INFO ] 2022-09-20 10:01:59.639 [main] Practice - Loading properties file
+[INFO ] 2022-09-20 10:01:59.643 [main] Practice - Checking the Driver is null or not
+[INFO ] 2022-09-20 10:01:59.645 [main] Practice - Driver is Null. Instantiating it!
+[INFO ] 2022-09-20 10:03:10.314 [main] Practice - Launchingchrome
+[INFO ] 2022-09-20 12:28:14.786 [main] Practice - Execution started
+[INFO ] 2022-09-20 12:28:14.791 [main] Practice - Instantiation of the CommonUtilities
+[INFO ] 2022-09-20 12:28:14.797 [main] Practice - Loading properties file
+[INFO ] 2022-09-20 12:28:14.798 [main] Practice - Checking the Driver is null or not
+[INFO ] 2022-09-20 12:28:14.798 [main] Practice - Driver is Null. Instantiating it!
+[INFO ] 2022-09-20 12:28:16.087 [main] Practice - Launchingchrome
+[INFO ] 2022-09-21 00:00:58.832 [main] Practice - Execution started
+[INFO ] 2022-09-21 00:00:58.843 [main] Practice - Instantiation of the CommonUtilities
+[INFO ] 2022-09-21 00:00:58.845 [main] Practice - Loading properties file
+[INFO ] 2022-09-21 00:00:58.846 [main] Practice - Checking the Driver is null or not
+[INFO ] 2022-09-21 00:00:58.847 [main] Practice - Driver is Null. Instantiating it!
+[INFO ] 2022-09-21 00:01:00.117 [main] Practice - Launchingchrome
+[INFO ] 2022-09-21 00:16:21.982 [main] Practice - Execution started
+[INFO ] 2022-09-21 00:16:21.986 [main] Practice - Instantiation of the CommonUtilities
+[INFO ] 2022-09-21 00:16:21.988 [main] Practice - Loading properties file
+[INFO ] 2022-09-21 00:16:21.989 [main] Practice - Checking the Driver is null or not
+[INFO ] 2022-09-21 00:16:21.991 [main] Practice - Driver is Null. Instantiating it!
+[INFO ] 2022-09-21 00:16:22.503 [main] Practice - Launchingchrome
+[INFO ] 2023-04-08 16:17:53.386 [main] Practice - Execution started
+[INFO ] 2023-04-08 16:17:53.414 [main] Practice - Instantiation of the CommonUtilities
+[INFO ] 2023-04-08 16:17:53.416 [main] Practice - Loading properties file
